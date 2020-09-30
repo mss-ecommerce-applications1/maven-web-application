@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and batch started from 11th october 2020 at 7:30 Am to 9:30 Am</h1>
+<h1 align="center"> MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and batch started from 11th september 2020 at 7:30 Am to 9:30 Am</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
